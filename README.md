@@ -17,7 +17,7 @@ LeeCode problems!
 Currently open and looking for new opportunities in the Greater Seattle Area!
 
 ## 🔭 I’m currently working on
-- React JS 
+- React JS
 
 ## 🌱 I’m currently learning
 - React JS
@@ -27,8 +27,9 @@ Currently open and looking for new opportunities in the Greater Seattle Area!
 - NodeJS services (Koa.js, Express.js)
 
 ## 📫 How to reach me: 
-e-mail: afung206@gmail.com
-
+-   <a href="https://www.linkedin.com/in/aaron-fung-a5687642">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;&nbsp;
 
 <!--
 **afung206/afung206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
