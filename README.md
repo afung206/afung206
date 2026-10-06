@@ -3,11 +3,9 @@
 Welcome to my GitHub Page. Explore my many random projects and contributions!
 
 ## About Me
-A Full Stack Developer based in Seattle, Washington. I graduated from the 
-University of Washington in 2011 and am currently a full-time developer at The Boeing Company.
+A Full Stack Developer based in Seattle, Washington. I am a highly motivated and quality driven developer..
 
-I have a strong passion for Software Development but most importantly, code quality! 
-Through the practice of Test-Driven Development (TDD), we can add strong foundation of confidence and quality into our code.
+Through the practice of Test-Driven Development (TDD), I believe can add strong a foundation of confidence and quality into the code we write.
 
 I am always on the lookout to learning and exploring new frameworks and tech stacks.
 
@@ -17,14 +15,13 @@ LeeCode problems!
 Currently open and looking for new opportunities in the Greater Seattle Area!
 
 ## 🔭 I’m currently working on
-- React JS
+- SvelteKit
 
 ## 🌱 I’m currently learning
-- React JS
+- SvelteKit
 
 ## 👯 I’m looking to collaborate on
-- React JS projects
-- NodeJS services (Koa.js, Express.js)
+- The Full Stack!
 
 ## 📫 How to reach me: 
 -   <a href="https://www.linkedin.com/in/aaron-fung-a5687642">
